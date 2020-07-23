@@ -7,7 +7,7 @@
 
 
 ### Route of snake<a name="snake-route"></a>
-* [Solution](https://github.com/kurgalinn/just-for-fun/blob/master/Tasks/Snake.php)
+* [Solution](https://github.com/kurgalinn/just-for-fun/blob/task/snake-route/tasks/Snake.php)
 
 Condition: _rendering array in a spiral, the size of array M * N_
 ```php
@@ -31,9 +31,9 @@ Output:
 ```
 
 ### Sorting<a name="sorting"></a>
-* [Bubble](https://github.com/kurgalinn/just-for-fun/blob/master/Tasks/Sorting/Bubble.php)
-* [QuickSimple](https://github.com/kurgalinn/just-for-fun/blob/master/Tasks/Sorting/QuickSimple.php)
-* [QuickHoarePartition](https://github.com/kurgalinn/just-for-fun/blob/master/Tasks/QuickHoarePartition.php)
+* [Bubble](https://github.com/kurgalinn/just-for-fun/blob/task/sorting/Tasks/Sorting/Bubble.php)
+* [QuickSimple](https://github.com/kurgalinn/just-for-fun/blob/task/sorting/Tasks/Sorting/QuickSimple.php)
+* [QuickHoarePartition](https://github.com/kurgalinn/just-for-fun/blob/task/sorting/Tasks/Sorting/QuickHoarePartition.php)
 
 Condition: _Compare the execution time of different sorting algorithms_
 ```php
